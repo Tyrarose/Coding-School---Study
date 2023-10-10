@@ -1,0 +1,10 @@
+run:
+1001,Pepito Manaloto,150.0
+1002,Pedro Penduko,149.0
+1003,Josh Grey,160.0
+1004,Darlene Kessel,155.0
+1005,Harris Parker,120.0
+
+//my my laptop went laggy netbeans wont open within 
+the given time limit so i had it typed on notepad pls
+consideration or atleast round 2?
